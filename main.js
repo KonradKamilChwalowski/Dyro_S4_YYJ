@@ -177,7 +177,7 @@ const Scenes = [
     {
         id: "Zaklęcie_P",
         text: 'Wymawiając zaklęcie doznajesz wizji: widzisz jak Dy-Roo umiera jedząc gołąbka!',
-        tlo: 'url("img/Biblioteka.png")',
+        tlo: 'url("img/gołąbki.png")',
         options: [
             {
                 text: 'Wymknij się z biblioteki! (ucieczka)',
